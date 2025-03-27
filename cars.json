@@ -1,7 +1,7 @@
 [
   {
     "name": "音速战神",
-    "character": "星马豪",
+    "character": "星马烈",
     "image": "sonic_saber.jpg",
     "attributes": {
       "速度": 9,
@@ -21,7 +21,7 @@
   },
   {
     "name": "旋风冲锋",
-    "character": "星马烈",
+    "character": "星马豪",
     "image": "magnum.jpg",
     "attributes": {
       "速度": 8,
