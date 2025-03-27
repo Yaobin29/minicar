@@ -1,0 +1,42 @@
+[
+  {
+    "name": "音速战神",
+    "character": "星马豪",
+    "image": "sonic_saber.jpg",
+    "attributes": {
+      "速度": 9,
+      "加速度": 8,
+      "稳定性": 7,
+      "通过性": 6,
+      "智能化": 5,
+      "改造空间": 9
+    },
+    "rank": {
+      "overall": 1
+    },
+    "appearance": {
+      "anime": "四驱兄弟",
+      "episode": "第3集"
+    }
+  },
+  {
+    "name": "旋风冲锋",
+    "character": "星马烈",
+    "image": "magnum.jpg",
+    "attributes": {
+      "速度": 8,
+      "加速度": 9,
+      "稳定性": 7,
+      "通过性": 7,
+      "智能化": 4,
+      "改造空间": 8
+    },
+    "rank": {
+      "overall": 2
+    },
+    "appearance": {
+      "anime": "四驱兄弟",
+      "episode": "第3集"
+    }
+  }
+]

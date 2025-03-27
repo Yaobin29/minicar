@@ -8,7 +8,7 @@ st.title("🏎️ 四驱兄弟 四驱车图鉴")
 st.markdown("欢迎来到《四驱兄弟》迷你四驱车资料图鉴！")
 
 # 加载数据
-with open("cars.json", "r", encoding="utf-8") as f:
+with open("data/cars.json", "r", encoding="utf-8") as f:
     cars = json.load(f)
 
 car_names = [car["name"] for car in cars]
